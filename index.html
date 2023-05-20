@@ -11,9 +11,9 @@
     <!-- changed div to header -->
     <header class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
-        <div>
-            <!-- if i try to replace div with nav, my elements change -->
-            <nav>
+        <!-- changed div to nav -->
+        <nav>
+            
             <ul>
                 <li>
                     <a href="#search-engine-optimization">Search Engine Optimization</a>
@@ -25,15 +25,15 @@
                     <a href="#social-media-marketing">Social Media Marketing</a>
                 </li>
             </ul>
-            </nav>
-        </div>
+        </nav>
     </header>
 
-    <!-- if i replace div with section, elements move -->
+    <!-- if i replace div with section, elements move. should this be section or article instead? -->
     <div class="hero"></div> 
     <!-- there is an image in class="hero", do I need to alt text? -->
     <div class="content">
-        <div class="search-engine-optimization">
+        <div id="search-engine-optimization" class="search-engine-optimization">
+            <!-- added id -->
             <img src="./assets/images/search-engine-optimization.jpg" alt="notebook with SEO brainstorm" class="float-left" />
             <!-- added alt text, does it need to be more descriptive? -->
             <h2>Search Engine Optimization</h2>
