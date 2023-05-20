@@ -28,7 +28,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-add screenshot?
+![Alt Text](image_url)
 
 ## Link
 
