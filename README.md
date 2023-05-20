@@ -28,7 +28,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-![Alt Text](image_url)
+![Alt Text](assets/images/screenshot.png)
 
 ## Link
 
