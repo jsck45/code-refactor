@@ -1,4 +1,4 @@
-# Challenge 1
+# Code Refactor
 
 ## HTML, CSS, Git: Code Refactor
 
